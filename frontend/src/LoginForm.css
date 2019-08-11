@@ -1,0 +1,20 @@
+.centered {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-color: #eeeeee;
+}
+
+.form-style {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 5px 10px 10px 5px black;
+}
+.login {
+  text-align: center;
+  font-family: Brush Script MT, Helvetica, sans-serif;
+  font-size: 40px;
+}
